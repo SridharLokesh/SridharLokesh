@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sridharlokesh" alt="sridharlokesh" /></a> </p>
 
-- 🌱 I’m currently learning **MERN FullStack Development**
+- 🌱 I’m currently learning **MERN Stack Development**
 
 - 💬 Ask me about **Python, Html, CSS, Tailwind CSS, JavaScript, Reactjs, NodeJS, Express, SQL, NoSQL, MongoDB, Postman, Git, Github**
 
